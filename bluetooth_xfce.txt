@@ -1,3 +1,5 @@
 Bluetooth packages and command to allow for connection in xfce
     Install blueman, bluez, and pulseaudio-module-bluetooth with all suggested packages.
     In the terminal, run the command: pactl load-module module-bluetooth-discover
+
+Add:  pactl load-module module-bluetooth-discover to startup/session. 
