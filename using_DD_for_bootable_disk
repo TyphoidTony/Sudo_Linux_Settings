@@ -1,0 +1,5 @@
+sudo dd if=Downloads/dynamic.iso of=/dev/sdX 
+
+
+dynamic.iso = is the ISO you want to burn to the flash drive. 
+sdx = is the mountpoint letter of the drive using lbslk REMEMBER TO MAKE SURE NOT TO DELETE YOUR DOWN FILE SYSTEM
