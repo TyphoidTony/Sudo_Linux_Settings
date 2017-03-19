@@ -1,0 +1,7 @@
+the file 60-objdev.rules is a udev rule file for allowing the specifically  avrdude to gain access to the usbasp ic programmer
+
+
+put 60-objdev.rules in:  /etc/udev/rules.d/60-objdev.rules
+
+http://ponty.github.io/MyElectronicProjects/projects/usbasp/usbasp.html
+
